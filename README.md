@@ -1,1 +1,1 @@
-#aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+bot template
